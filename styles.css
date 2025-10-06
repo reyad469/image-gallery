@@ -28,6 +28,9 @@ section{
 .container img:hover{
     width: 30%;
 }
+.container img:focus{
+    width: 30%;
+}
 @media (max-width: 768px) {
     img:nth-child(2){
         display: none;
@@ -43,3 +46,4 @@ section{
     width: 50%;
 }
 }
+
